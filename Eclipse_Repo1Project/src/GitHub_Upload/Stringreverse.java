@@ -5,7 +5,7 @@ public class Stringreverse {
 	public static void main(String[] args) {
 	String s1= "YUVA";
 	String rev = "";
-	
+//Below are the comments	
 // The below line "i=s1.length()-1" represents the Start execution from the last String declared in s1.
 // Here we are reversing using the Indices value, not length(). For that length(-1). 
 //Indices is always less than one when compared to length().
